@@ -2,7 +2,7 @@ import { BiLogoChrome, BiLogoGithub } from "react-icons/bi";
 
 const Footer = () => {
   return (
-    <footer className="py-8 border-t border-gray-100 flex gap-2 justify-center items-center">
+    <footer className="py-8 bg-slate-100 flex gap-2 justify-center items-center">
       <a href="https://chrome.google.com/webstore/detail/gd-styles/pjjhmajhdkfcolcpmfgimbgmkonbfnpl">
         <BiLogoChrome className="w-[30px] h-[30px] text-secondary" />
       </a>

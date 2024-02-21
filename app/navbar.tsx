@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="ml-2 text-4xl tracking-tighter">STYLES</div>
       </div>
       <div className="grow" />
-      <a href="https://chrome.google.com/webstore/detail/gd-styles/pjjhmajhdkfcolcpmfgimbgmkonbfnpl">
+      <a className="p-4 border hover:bg-slate-200 rounded-xl" href="https://chrome.google.com/webstore/detail/gd-styles/pjjhmajhdkfcolcpmfgimbgmkonbfnpl">
         Download
       </a>
     </nav>
